@@ -6,7 +6,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Latest-green.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-Latest-orange.svg)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Latest-red.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **A comprehensive data cleaning and exploratory analysis project for online marketplace sales transactions**
 
