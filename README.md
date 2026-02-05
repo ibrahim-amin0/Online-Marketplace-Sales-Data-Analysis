@@ -30,7 +30,6 @@ Analyzing sales patterns, customer behavior, and revenue trends across multiple 
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
